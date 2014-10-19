@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" ctype="Workspace" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="excepciones/Principal.cs" ctype="Workbench">
+    <Files>
+      <File FileName="excepciones/Principal.cs" Line="16" Column="4" />
+      <File FileName="excepciones/ZeroException.cs" Line="4" Column="37" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/home/jona/Dropbox/academia/2013A/Programacion III/programas/excepciones/excepciones/Principal.cs" line="27" />
+      <Breakpoint file="/home/jona/Dropbox/academia/2013A/Programacion III/programas/excepciones/excepciones/Principal.cs" line="9" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches ctype="PinnedWatchStore" />
+</Properties>
